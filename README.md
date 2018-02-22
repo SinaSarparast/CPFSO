@@ -30,4 +30,6 @@ and
 
 pip3 install --upgrade -r requirements.txt
 
-7. That's it!
+7. That's it! Now run jupyter by calling:
+
+jupyter notebook
